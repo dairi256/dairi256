@@ -10,3 +10,14 @@ I'm a rookie programmer currently studying in college, due to finish my first pr
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-%23A8B9CC?style=for-the-badge&logo=C%2B%2B&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&labelColor=black)
 
+Others: (Aren't available as logos)
+- C#
+- Java
+
+# What technologies do I use?
+I mainly use Visual Studio 2022 as my IDE. Along with it's packet installer by nuget.org, I also use Microsoft.ML with projects that I want to use ML algorithms.
+
+# Top Repositories
+- **RecipeReccomendation:** https://github.com/dairi256/RecipeReccomendation
+- **Universal Interpreter**: https://github.com/dairi256/Universal-Interpreter
+- **LibrarySystem**: https://github.com/dairi256/LibrarySystem
