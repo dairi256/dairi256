@@ -17,7 +17,8 @@ Others: (Aren't available as logos)
 # What technologies do I use?
 ![Static Badge](https://img.shields.io/badge/.NET-%23512BD4?style=for-the-badge&logo=.NET&color=black)
 
-I mainly use Visual Studio 2022 as my IDE. Along with it's packet installer by nuget.org, I also use Microsoft.ML with projects that I want to use ML algorithms.
+I mainly use Visual Studio 2022 as my IDE. Along with it's packet installer by nuget.org, I also use Microsoft.ML with projects that I want to use ML algorithms. 
+I also use some WPF Applications, along with C# to handle the logic.
 
 # Top Repositories
 - **RecipeReccomendation:** https://github.com/dairi256/RecipeReccomendation
