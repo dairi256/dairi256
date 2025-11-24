@@ -16,6 +16,8 @@ Others: (Aren't available as logos)
 
 # What technologies do I use?
 ![Static Badge](https://img.shields.io/badge/.NET-%23512BD4?style=for-the-badge&logo=.NET&color=black)
+![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=Node.js&color=green)
+![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&color=blue)
 
 I mainly use Visual Studio 2022 as my IDE. Along with it's packet installer by nuget.org, I also use Microsoft.ML with projects that I want to use ML algorithms. 
 I also use some WPF Applications, along with C# to handle the logic.
