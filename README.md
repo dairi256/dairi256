@@ -15,8 +15,11 @@ Others: (Aren't available as logos)
 ![Static Badge](https://img.shields.io/badge/.NET-%23512BD4?style=for-the-badge&logo=.NET&color=black)
 ![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=Node.js&color=green)
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&color=blue)
+![Static Badge](https://img.shields.io/badge/Git-%23181717?style=for-the-badge&logo=Git)
+![Static Badge](https://img.shields.io/badge/GitHub-%23222222?style=for-the-badge&logo=GitHub)
 
-I mainly use Visual Studio 2022 as my IDE. Along with it's packet installer by nuget.org, I also use Microsoft.ML with projects that I want to use ML algorithms. 
+
+I mainly use Visual Studio 2022 as my IDE. Along with it's packet installer by nuget.org, I also use Microsoft.ML with projects that I want to use ML algorithms with. 
 I also use some WPF Applications, along with C# to handle the logic.
 
 # Top Repositories
