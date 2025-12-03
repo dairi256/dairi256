@@ -1,5 +1,5 @@
 # Hi there, I'm dairi256! 👋
-I'm a rookie programmer currently studying in college, due to finish my first programming course in November.
+I'm a rookie programmer currently studying and learning.
 
 # What languages do I know?
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&labelColor=black)
