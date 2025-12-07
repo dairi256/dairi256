@@ -17,6 +17,8 @@ Others: (Aren't available as logos)
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&color=blue)
 ![Static Badge](https://img.shields.io/badge/Git-%23181717?style=for-the-badge&logo=Git)
 ![Static Badge](https://img.shields.io/badge/GitHub-%23222222?style=for-the-badge&logo=GitHub)
+![Static Badge](https://img.shields.io/badge/intellij%20idea-%23000000?style=for-the-badge&logo=IntelliJ%20IDEA)
+
 
 
 I mainly use Visual Studio 2022 as my IDE. Along with it's packet installer by nuget.org, I also use Microsoft.ML with projects that I want to use ML algorithms with. 
