@@ -30,4 +30,4 @@ I also use some WPF Applications, along with C# to handle the logic.
 - **LibrarySystem**: https://github.com/dairi256/LibrarySystem
 - **WhiteboardTogether (WIP):** https://github.com/dairi256/WhiteboardTogether
 - **LocalWeatherBot:** https://github.com/dairi256/LocalWeatherBot
-- **FnMapAndLootPoolBot:** https://github.com/dairi256/FNMapAndLootPoolBot
+- **FNBattleBusBot:** https://github.com/dairi256/FNBattleBusBot
