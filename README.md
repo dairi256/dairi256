@@ -28,4 +28,6 @@ I also use some WPF Applications, along with C# to handle the logic.
 - **RecipeReccomendation:** https://github.com/dairi256/RecipeReccomendation
 - **Universal Interpreter**: https://github.com/dairi256/Universal-Interpreter
 - **LibrarySystem**: https://github.com/dairi256/LibrarySystem
-- **WhiteboardTogether (WIP): https://github.com/dairi256/WhiteboardTogether**
+- **WhiteboardTogether (WIP):** https://github.com/dairi256/WhiteboardTogether
+- **LocalWeatherBot:** https://github.com/dairi256/LocalWeatherBot
+- **FnMapAndLootPoolBot:** https://github.com/dairi256/FNMapAndLootPoolBot
