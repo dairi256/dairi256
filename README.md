@@ -13,13 +13,12 @@ Others: (Aren't available as logos)
 
 # What technologies do I use?
 ![Static Badge](https://img.shields.io/badge/.NET-%23512BD4?style=for-the-badge&logo=.NET&color=black)
-![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=Node.js&color=green)
-![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&color=blue)
-![Static Badge](https://img.shields.io/badge/Git-%23181717?style=for-the-badge&logo=Git)
-![Static Badge](https://img.shields.io/badge/GitHub-%23222222?style=for-the-badge&logo=GitHub)
+![Static Badge](https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=Node.js&color=green&labelColor=black)
+![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=React&color=blue&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Git-%23181717?style=for-the-badge&logo=Git&labelColor=black)
+![Static Badge](https://img.shields.io/badge/GitHub-%23222222?style=for-the-badge&logo=GitHub&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/intellij%20idea-%23000000?style=for-the-badge&logo=IntelliJ%20IDEA)
-
-
+![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=MongoDB&labelColor=black)
 
 I mainly use Visual Studio 2022 as my IDE. Along with it's packet installer by nuget.org, I also use Microsoft.ML with projects that I want to use ML algorithms with. 
 I also use some WPF Applications, along with C# to handle the logic.
