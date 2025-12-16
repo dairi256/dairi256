@@ -6,10 +6,8 @@ I'm a rookie programmer currently studying and learning.
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-%23A8B9CC?style=for-the-badge&logo=C%2B%2B&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&labelColor=black)
-
-Others: (Aren't available as logos)
-- C#
-- Java
+![Static Badge](https://img.shields.io/badge/C%23-%23270238?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Java-%230587b3?style=for-the-badge)
 
 # What technologies do I use?
 ![Static Badge](https://img.shields.io/badge/.NET-%23512BD4?style=for-the-badge&logo=.NET&color=black)
