@@ -22,8 +22,8 @@ I mainly use Visual Studio 2022 as my IDE. Along with it's packet installer by n
 I also use some WPF Applications, along with C# to handle the logic.
 
 # Top Repositories
-- **RecipeReccomendation:** https://github.com/dairi256/RecipeReccomendation
+- **UbuntuFileSystemAPI:** https://github.com/dairi256/UbuntuFileSystemAPI
 - **LibrarySystem**: https://github.com/dairi256/LibrarySystem
-- **WhiteboardTogether (WIP):** https://github.com/dairi256/WhiteboardTogether
+- **WhiteboardTogether:** https://github.com/dairi256/WhiteboardTogether
 - **LocalWeatherBot:** https://github.com/dairi256/LocalWeatherBot
 - **FNBattleBusBot:** https://github.com/dairi256/FNBattleBusBot
