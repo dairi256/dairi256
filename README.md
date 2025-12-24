@@ -17,6 +17,8 @@ I'm a rookie programmer currently studying and learning.
 ![Static Badge](https://img.shields.io/badge/GitHub-%23222222?style=for-the-badge&logo=GitHub&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/intellij%20idea-%23000000?style=for-the-badge&logo=IntelliJ%20IDEA)
 ![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=MongoDB&labelColor=black)
+![Static Badge](https://img.shields.io/badge/ubuntu%20server-%23E95420?style=for-the-badge&logo=ubuntu&labelColor=black)
+
 
 I mainly use Visual Studio 2022 as my IDE. Along with it's packet installer by nuget.org, I also use Microsoft.ML with projects that I want to use ML algorithms with. 
 I also use some WPF Applications, along with C# to handle the logic.
