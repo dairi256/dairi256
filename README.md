@@ -1,5 +1,5 @@
 # Hi there, I'm dairi256! 👋
-I'm a rookie programmer currently studying and learning.
+Im an early-career developer thats passionate about building useful tools and learning through experimentation. I'm currently focused on C#, Machine Learning and APIs, with a growing interest on backend technologies such as SQL and UI design.
 
 # What languages do I know?
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&labelColor=black)
